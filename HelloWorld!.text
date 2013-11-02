@@ -1,15 +1,9 @@
-/** Comment
- * Displays "Hello World!" to the standard output.
- */
-
 class HelloWorld {
 
   public static void main (String args[]) {
 
-    System.out.println("Hello World!");   //Displays the enclosed String on the Screen Console
+    System.out.println("Hello World!");
 
   }
   
 }
-
-//this is just a Hellow world nice little first program I learned.
